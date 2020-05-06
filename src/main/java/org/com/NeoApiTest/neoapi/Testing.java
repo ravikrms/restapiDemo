@@ -8,6 +8,10 @@ public class Testing {
 		int b;
 		int c;
 		
+		int x;
+		int y;
+		int z;
+		
 
 	}
 
